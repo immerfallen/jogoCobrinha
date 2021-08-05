@@ -8,5 +8,9 @@ A cobrinha é um array com posição x e y sendo que a posição 0 do array repr
 
 A movimentação é feita conforme o evento de keydown e para cada posição é somado uma unidade de movimentação para a cabeça da cobra. 
 
+![escreenshot](imgs/screenshot.png)
+
+![escreenshot](imgs/screenshot1.png)
+
 
 
